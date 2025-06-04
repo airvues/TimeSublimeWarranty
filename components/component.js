@@ -318,7 +318,7 @@ const Component = () => {
                 fontWeight: "bold",
               }}
             >
-              info@skycloudluxe.com
+              ian@time-sublime.com
             </a>
           </p>
         </div>
