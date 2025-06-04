@@ -159,7 +159,7 @@ const Component = () => {
             paddingRight: "12px",
             border: "0px solid #ccc",
             borderRadius: "10px",
-            backgroundColor: "#f0f0f0",
+            backgroundColor: "#222",
             width: "100%",
             maxWidth: "500px",
             minHeight: "auto",
