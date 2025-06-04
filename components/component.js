@@ -94,7 +94,7 @@ const Component = () => {
           <p
             style={{
               fontSize: "16px",
-              color: "#226977",
+              color: "#a6cfd7",
               marginBottom: "12px",
               textAlign: "center",
             }}
