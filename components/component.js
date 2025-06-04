@@ -85,7 +85,7 @@ const Component = () => {
 
       }}
     >
-      <h2 style={{ color: "black", marginBottom: "6px", marginTop: "4px" }}>
+      <h2 style={{ color: "#ffffff", marginBottom: "6px", marginTop: "4px" }}>
       {warrantyData ? "Certificate of Authenticity" : "Verify Your Timepiece"}
       </h2>
 
@@ -94,7 +94,7 @@ const Component = () => {
           <p
             style={{
               fontSize: "16px",
-              color: "#0078B3",
+              color: "#c5a96e",
               marginBottom: "12px",
               textAlign: "center",
             }}
