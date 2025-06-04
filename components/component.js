@@ -94,7 +94,7 @@ const Component = () => {
           <p
             style={{
               fontSize: "16px",
-              color: "#c5a96e",
+              color: "#226977",
               marginBottom: "12px",
               textAlign: "center",
             }}
@@ -178,7 +178,7 @@ const Component = () => {
               }}
             />
           )}
-          <h3 style={{ color: "#c5a96e", marginBottom: "8px" }}>
+          <h3 style={{ color: "#226977", marginBottom: "8px" }}>
             Warranty Details
           </h3>
           {warrantyData.model && (
@@ -313,7 +313,7 @@ const Component = () => {
             <a
               href="mailto:info@skycloudluxe.com"
               style={{
-                color: "#c5a96e",
+                color: "#226977",
                 textDecoration: "none",
                 fontWeight: "bold",
               }}
