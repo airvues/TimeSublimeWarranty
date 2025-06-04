@@ -244,8 +244,7 @@ const Component = () => {
               marginBottom: "6px",
               borderRadius: "999px",
               padding: "8px 14px",
-              backgroundColor: "#0078B3",
-              color: "white",
+              
               border: "none",
               cursor: "pointer",
               fontWeight: "bold",
@@ -271,8 +270,7 @@ const Component = () => {
               style={{
                 borderRadius: "999px",
                 padding: "8px 14px",
-                backgroundColor: "#0078B3",
-                color: "white",
+                
                 border: "none",
                 cursor: "pointer",
                 fontWeight: "bold",
@@ -289,8 +287,7 @@ const Component = () => {
               style={{
                 borderRadius: "999px",
                 padding: "8px 14px",
-                backgroundColor: "#0078B3",
-                color: "white",
+                
                 border: "none",
                 cursor: "pointer",
                 fontWeight: "bold",
@@ -316,7 +313,7 @@ const Component = () => {
             <a
               href="mailto:info@skycloudluxe.com"
               style={{
-                color: "#0078B3",
+                color: "#ffffff",
                 textDecoration: "none",
                 fontWeight: "bold",
               }}
