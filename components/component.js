@@ -178,7 +178,7 @@ const Component = () => {
               }}
             />
           )}
-          <h3 style={{ color: "#ffffff", marginBottom: "8px" }}>
+          <h3 style={{ color: "#c5a96e", marginBottom: "8px" }}>
             Warranty Details
           </h3>
           {warrantyData.model && (
