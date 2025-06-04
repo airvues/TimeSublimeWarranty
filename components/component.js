@@ -304,7 +304,7 @@ const Component = () => {
             style={{
               marginTop: "12px",
               fontSize: "14px",
-              color: "#333",
+              color: "#ffffff",
               textAlign: "center",
               marginBottom: "0"
             }}
@@ -313,7 +313,7 @@ const Component = () => {
             <a
               href="mailto:info@skycloudluxe.com"
               style={{
-                color: "#ffffff",
+                color: "##c5a96e",
                 textDecoration: "none",
                 fontWeight: "bold",
               }}
