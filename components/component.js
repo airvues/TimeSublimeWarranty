@@ -137,8 +137,7 @@ const Component = () => {
               style={{
                 borderRadius: "999px",
                 padding: "12px 20px",
-                backgroundColor: "#0078B3",
-                color: "white",
+                
                 border: "none",
                 cursor: "pointer",
                 fontWeight: "bold",
