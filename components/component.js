@@ -159,7 +159,7 @@ const Component = () => {
             paddingRight: "12px",
             border: "0px solid #ccc",
             borderRadius: "10px",
-            backgroundColor: "#222",
+            backgroundColor: "linear-gradient(to bottom, #0b4958, #0a3d4a)",
             width: "100%",
             maxWidth: "500px",
             minHeight: "auto",
