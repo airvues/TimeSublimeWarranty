@@ -250,7 +250,7 @@ const Component = () => {
               fontWeight: "bold",
               width: "100%",
               maxWidth: "400px",
-              fontFamily: "'Inter', sans-serif",
+              
             }}
           >
             Submit Claim
@@ -276,7 +276,7 @@ const Component = () => {
                 fontWeight: "bold",
                 width: "100%",
                 maxWidth: "190px",
-                fontFamily: "'Inter', sans-serif",
+                
               }}
             >
               Warranty Details
@@ -293,7 +293,7 @@ const Component = () => {
                 fontWeight: "bold",
                 width: "100%",
                 maxWidth: "190px",
-                fontFamily: "'Inter', sans-serif",
+                
               }}
             >
               Verify Another Warranty
@@ -313,7 +313,7 @@ const Component = () => {
             <a
               href="mailto:info@skycloudluxe.com"
               style={{
-                color: "##c5a96e",
+                color: "#c5a96e",
                 textDecoration: "none",
                 fontWeight: "bold",
               }}
